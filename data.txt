@@ -15,7 +15,7 @@
   "unity_interstitial_id": "xxxx",
   "unity_rewarded_id": "xxxx",
   "unity_app_id": "xxxx",
-  "is_unity_test_mode": true,
+  "is_unity_test_mode": false,
   
   "admob_banner": "ca-app-pub-3940256099942544/6300978111",
   "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
@@ -45,18 +45,18 @@
   "Rewarded": "yandex",
   
   
-  "onesignal_id": "xxxxxxx",
+  "onesignal_id": "b0d99484-582d-4505-9ae0-8fab4b6ed46a",
   
   
  
   "show_tips": true,
-  "show_fake_call": true,
+  "show_fake_call": false,
   
-  "show_videos_btn": true,
+  "show_videos_btn": false,
   
-  "show_quiz": true,
-  "show_spin": true,
-  "show_puzzle": true,
+  "show_quiz": false,
+  "show_spin": false,
+  "show_puzzle": false,
   
   
   
@@ -83,7 +83,7 @@
   "suspended_URL": "xxxx",
 
 
-  "show_app_1": true,
+  "show_app_1": false,
   "app_icon_1": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
   "app_title_1": "Parchisi STAR Online",
   "app_desc_1": "Parchisi STAR is an online multiplayer game.",
@@ -104,10 +104,10 @@
 
   "guides": [
 	{
-	 "image": "https://ntvb.tmsimg.com/assets/p18027171_b_h8_aa.jpg?w=960&h=540",
-	 "title": "How To Play This Run Game",
-	 "text": "Welcome to Run Forrest Run, the official game of Forrest Gump! Enjoy endless running in this amazing adventure. Have fun on the run, dashing and beating every level with Forrest Gump in this great runner game!",
-	 "text_two": "Run as Forrest Gump through the levels, collecting coins and dashing in the jungle, enjoy playing this game as the star of an award-winning Paramount Pictures film!",
+	 "image": "https://iili.io/J2eBOx9.webp",
+	 "title": "fbs chicken gun mod 1",
+	 "text": "Imagine a futuristic world where chickens have evolved into giant, fast-moving creatures.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 1,
@@ -120,10 +120,10 @@
 
 	},
 	{
-	 "image": "https://outrightgames.com/wp-content/uploads/2020/07/Paw-Patrol-Mighty-Pups-Save-the-Bay-Feature-Image.png",
-	 "title": "Play Now!",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/J2eBwD7.webp",
+	 "title": "fbs chicken gun mod 2",
+	 "text": "The Feather Blaster Shotgun is a specialized weapon designed to catch these mega-chickens for research or sport.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 2,
@@ -136,10 +136,10 @@
 	 
 	},
 	{
-	 "image": "https://deadline.com/wp-content/uploads/2020/02/paw-patrol-2.png?w=1024",
-	 "title": "Some Hakes For This Run Game",
-	 "text": "This is so much text This is so much text This is so much text This is so much text This is so much text This is so much text This is so much text This is so much text This is so much text This is so much text",
-	 "text_two": "- Easy to play, dash, run, jump and collect coins while running: Swipe up to jump, have fun and escape from obstacles. Press down to slide under hurdles. Dash left or right to turn your endless runner. Fly with a hang glider and collect the coins in the air in this endless running game.",
+	 "image": "https://iili.io/J2eBhR2.webp",
+	 "title": "fbs chicken gun mod 3",
+	 "text": "Players could take on the role of hunters equipped with the FBS, navigating through challenging environments to capture or study these unique creatures.",
+	 "text_two": "",
 
 	 "isLocked": true,
 	 "id": 3,
@@ -152,10 +152,10 @@
 	 
 	},
 	{
-	"image": "https://tvline.com/wp-content/uploads/2020/07/paw-patrol-not-cancelled.jpg?w=620&h=420&crop=1",
-	 "title": "Endless runner features:",
-	 "text": "- Easy to play, dash, run, jump and collect coins while running:",
-	 "text_two": "Swipe up to jump, have fun and escape from obstacles. Press down to slide under hurdles. Dash left or right to turn your endless runner. Fly with a hang glider and collect the coins in the air in this endless running game.",
+	"image": "https://iili.io/J2eBXHl.webp",
+	 "title": "fbs chicken gun mod 4",
+	 "text": "In a quirky alternate reality, chickens have become the primary ammunition in a comical warfare setting.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 4,
@@ -168,10 +168,10 @@
 	 
 	},
 	{
-	"image": "https://p325k7wa.twic.pics/high/paw-patrol/paw-patrol-on-the-roll/00-page-setup/paw-patrol-otr_game-thumbnail.jpg?twic=v1/resize=760/step=10/quality=80",
-	 "title": "Unlimited Running",
-	 "text": "Run unlimited in the jungle of Vietnam. Dash fast, rush to overcome levels, unlock new scenarios and characters. Try running as fast as possible in this endless running adventure game without wifi (offline game).",
-	 "text_two": "While running, get boosters & power ups to run unlimited time in all the scenarios and have a lot of fun. A wild race is waiting: run, jump and dodge! rush and dash through a fusion of arcade and action game, enjoy some casual fun for everyone and running games.",
+	"image": "https://iili.io/J2eBjNS.webp",
+	 "title": "fbs chicken gun mod 5",
+	 "text": "The FBS Chicken Gun could be a weapon used by soldiers to launch specially trained chickens at the enemy.",
+	 "text_two": "",
 
 	 "isLocked": true,
 	 "id": 5,
@@ -184,10 +184,10 @@
 	 
 	},
 	{
-	"image": "https://i.ytimg.com/vi/LRMTr2VZcr8/maxresdefault.jpg",
-	 "title": "Easy To Play",
-	 "text": "Swipe up to jump, have fun and escape from obstacles. Press down to slide under hurdles. Dash left or right to turn your endless runner.",
-	 "text_two": "Fly with a hang glider and collect the coins in the air in this endless running game.",
+	"image": "https://iili.io/J2eBVS4.webp",
+	 "title": "fbs chicken gun mod 6",
+	 "text": "Picture a world where chickens, tired of being on the dinner plate, have revolted against humans.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 6,
